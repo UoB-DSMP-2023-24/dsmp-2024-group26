@@ -3,7 +3,7 @@
 ## Group Information
 Group Number: 26
 
-Problem Assigned: Lloyds Banking
+Problem C: Lloyds Banking Group
 
-Group Members:Chengpeng Guo,Leichen Li,Yanlin Peng,Yiming Qu
+Group Members: Chengpeng Guo, Leichen Li, Yanlin Peng, Yiming Qu
 
