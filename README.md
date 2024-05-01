@@ -12,7 +12,6 @@ In this research, three models of consumer type prediction model, financial risk
 
 ## Environment Requirements
 Please ensure the following package has been installed:
-- `Wikipedia-API` 0.6.0
 - `pandas` 2.0.3
 - `numpy` 1.5.0
 - `matplotlib` 3.7.2
